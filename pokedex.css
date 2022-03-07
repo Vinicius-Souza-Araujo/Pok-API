@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap');
+
+                
+
+body{
+    background-color: rgba(0, 0, 0, 0.747);
+    font-family: 'Bree Serif', serif;
+   
+}
+
+.cardContainer{
+ 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+    
+    
+    
+
+}
+.card-body, .card-header, .card-footer{
+    background-color: red;
+    border: solid 5px;
+}
+#button-addon2{
+    
+    background-color: aqua;
+}
+h1{
+    color:white;
+}
+p{
+    font-size: 30px;
+    color: white;
+    
+
+}
+
+img{
+    width: 50%;
+    border: 5px solid;
+    border-radius: 5px;
+    background-color: white;
+   
+}
